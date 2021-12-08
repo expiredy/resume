@@ -1,5 +1,5 @@
 #IDE cashe 
-.vccode/
+**/.vccode/
 
 #node js modules (I not gonna wait for a half of hour to upload this, cause you can just build it by your own)
 **/node_modules/
